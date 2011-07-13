@@ -1,0 +1,3 @@
+#This is a small app written in JRuby to take screenshots from a tray application Item.
+#idea taken from Martin Sadler http://rubylearning.com/blog/2010/09/29/an-introduction-to-desktop-apps-with-ruby/
+#Uses Robot Java library to accomplish screen capture. I hope to elaborate on this in the future.
